@@ -47,6 +47,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Abdroid, java, Kotlin, Firebase
 - Location - Douala, Cameroon
 
+### Cote D'Ivoire (Ivory Coast)
+
+#### Abou Kone
+
+- [@abookone](http://twitter.com/abookone)
+- Angular, React, Javascript, Front End Development, Developer Training, Entrepeneurship
+- Abidjan, Cote D'Ivoire / Laurel, USA 
+
 ### Canada
 
 #### Tomiwa Ademidun
